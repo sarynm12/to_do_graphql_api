@@ -1,5 +1,7 @@
 # README
 
+https://www.codementor.io/@karanjaeddy/build-a-to-do-list-api-with-graphql-api-rails-5-part-1-irjt1e7jm
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
