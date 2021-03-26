@@ -66,4 +66,6 @@ RSpec.configure do |config|
     with.test_framework :rspec
     with.library :rails
   end
+
+  config.include FactoryBot::Syntax::Methods
 end
